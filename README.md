@@ -1,8 +1,8 @@
- Web Project
+Web Project
 
-A simple but cool web page built with HTML & CSS.»
+A simple but cool web page built with HTML & CSS.
 
- What it has
+What it has
 
 - Clean design
 - Beginner-friendly code
@@ -11,10 +11,14 @@ A simple but cool web page built with HTML & CSS.»
 Tech
 
 - HTML
+- CSS
 
- Creator
+Run it
+
+Clone the project and open the HTML file in your browser.
+
+git clone https://github.com/maje5603-dev/web-project.git
+
+Creator
 
 Mohammed Majed
-
-
- Star the repo if you like it!
